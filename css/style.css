@@ -1,0 +1,24 @@
+
+/* Default height for small devices */
+#intro-example {
+height: 400px;
+}
+
+/* Height for devices larger than 992px */
+@media (min-width: 992px) {
+#intro-example {
+    height: 600px;
+}
+}
+
+.headstar{
+    background-image: url("https://mdbcdn.b-cdn.net/img/new/slides/041.webp");
+}
+
+.mainstart{
+    background-color: rgba(251, 251, 251, 0.15);
+}
+
+.mainend{
+    background-color: rgba(251, 251, 251, 0.15);
+}
